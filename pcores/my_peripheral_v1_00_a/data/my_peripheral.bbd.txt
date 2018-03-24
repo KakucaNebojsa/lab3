@@ -1,0 +1,15 @@
+Files
+HelloWorld.ngc
+HelloWorld_axi4lite_0_wrapper.ngc
+HelloWorld_clock_generator_0_wrapper.ngc
+HelloWorld_debug_module_wrapper.ngc
+HelloWorld_dip_switches_wrapper.ngc
+HelloWorld_leds_wrapper.ngc
+HelloWorld_microblaze_0_bram_block_wrapper.ngc
+HelloWorld_microblaze_0_d_bram_ctrl_wrapper.ngc
+HelloWorld_microblaze_0_dlmb_wrapper.ngc
+HelloWorld_microblaze_0_i_bram_ctrl_wrapper.ngc
+HelloWorld_microblaze_0_ilmb_wrapper.ngc
+HelloWorld_microblaze_0_wrapper.ngc
+HelloWorld_proc_sys_reset_0_wrapper.ngc
+HelloWorld_rs232_wrapper.ngc
