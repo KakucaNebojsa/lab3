@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2018-03-23T10:23:58</DateModified>
+  <DateModified>2018-03-27T09:15:31</DateModified>
   <ModuleName>HelloWorld</ModuleName>
-  <SummaryTimeStamp>2018-03-23T10:23:58</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/student/Desktop/RA147/lab3/lab3/__xps/ise/HelloWorld.xreport</SavedFilePath>
+  <SummaryTimeStamp>2018-03-27T09:15:31</SummaryTimeStamp>
+  <SavedFilePath>C:/Users/student/Desktop/RA147/Zadatak4/lab3/__xps/ise/HelloWorld.xreport</SavedFilePath>
   <FilterFile>filter.filter</FilterFile>
-  <SavedFilterFilePath>C:/Users/student/Desktop/RA147/lab3/lab3/__xps/ise</SavedFilterFilePath>
+  <SavedFilterFilePath>C:/Users/student/Desktop/RA147/Zadatak4/lab3/__xps/ise</SavedFilterFilePath>
   <DateInitialized>2018-03-20T09:21:03</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
